@@ -1,6 +1,6 @@
 # Meme Generator
 
-Create personalized memes using this React-based meme generator. This project was developed as part of a study initiative after completing a bootcamp to reinforce React skills, state management, and API integration.
+Create personalized memes using this React-based meme generator. This project was developed as part of a React course after completing a bootcamp to reinforce React, HTML, CSS skills, state management, and API integration.
 
 Check out the live demo: https://boisterous-pothos-6b6df5.netlify.app/
 
