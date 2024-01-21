@@ -4,6 +4,9 @@ Create personalized memes using this React-based meme generator. This project wa
 
 Check out the live demo: https://boisterous-pothos-6b6df5.netlify.app/
 
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
 ### Local Development
 
 To run the project locally, follow these steps:
