@@ -17,7 +17,7 @@ Clone the repository:
 
 Install dependencies:
 
-    cd meme-generator-react
+    cd meme-generator
     npm install
 
 Start the development server:
