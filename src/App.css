@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+
+.main-page{
+  font-family: 'Karla', sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content{
+  margin-top: 28px;
+  align-self: center;
+  max-width: 360px;
+}
